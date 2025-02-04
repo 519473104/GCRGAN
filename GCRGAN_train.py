@@ -2,7 +2,6 @@ import argparse
 import numpy as np
 import torch
 from networks_2 import Generator, Discriminator, Net
-# from 不加皮尔逊系数 import Generator, Discriminator
 import random
 import time
 
